@@ -1,0 +1,19 @@
+body{
+  background: #FEEEBF;
+  color: #272044;
+  padding: 20px;
+  }
+  h1 {
+  font-weight: 88px;
+  text-align: center;
+  margin-bottom: 30px;
+  }
+  h5{
+  text-align: center;
+  }
+  a {
+    color: #B93E97;
+   }
+  img {
+  width: 300px;
+  }
